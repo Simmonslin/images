@@ -1,0 +1,19 @@
+<html>
+<h1><b> This is picture 1</b></h1>
+<figure>
+<p><img src="padres_wbgs.jvg.png" alt="San Diego Padres"
+     title="A baseball Team"
+     height="300" width="400" align="top"/>
+ </p>
+<figcaption>San Diego Padres is a major league baseball team in San Diego.</figcaption>
+</figure>
+<hr/>
+<h1><b> This is picture 2</b></h1>
+<figure>
+<p><img src="slam.diego.jpeg" height="300" width="400" align="middle"/>
+    </p>
+<figcaption>These four players are the aces of the SAN Diego Padres .</figcaption>
+
+
+
+</html>
